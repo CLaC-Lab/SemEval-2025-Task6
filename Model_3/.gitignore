@@ -1,0 +1,9 @@
+../results/
+../../model/
+fine_tuned_roberta/
+.cache/
+.venv/
+models/
+test/
+SemEval-2025-Task6/
+data/
