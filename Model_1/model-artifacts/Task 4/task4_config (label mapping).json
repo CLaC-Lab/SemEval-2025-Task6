@@ -1,0 +1,9 @@
+{
+  "label_mapping": {
+    "0": "Less than 2 years",
+    "1": "2 to 5 years",
+    "2": "More than 5 years",
+    "3": "Already",
+    "4": "N/A"
+  }
+}
